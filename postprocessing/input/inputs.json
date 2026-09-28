@@ -1,0 +1,5 @@
+{
+  "ground_truth_path": "C:\\Users\\chinn\\OneDrive - sreenidhi.edu.in\\FixedBTS\\data\\brats2023\\BraTS-GLI-00022-001\\BraTS-GLI-00022-001-seg.nii.gz",
+  "patient_id": "BraTS-GLI-00022-001",
+  "prediction_path": "C:\\Users\\chinn\\OneDrive - sreenidhi.edu.in\\FixedBTS\\Attention_unet\\results\\predictions\\BraTS-GLI-00022-001_prediction_original.nii.gz"
+}

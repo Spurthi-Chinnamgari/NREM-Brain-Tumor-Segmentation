@@ -1,0 +1,19 @@
+{
+  "coordinate_convention": "(x, y, z) in cropped padded space",
+  "patch_coordinate": [
+    0,
+    64,
+    64
+  ],
+  "patch_index": 4,
+  "patch_size": [
+    64,
+    64,
+    64
+  ],
+  "patient_id": "BraTS-GLI-00022-001",
+  "source_checkpoint": "C:\\Users\\chinn\\OneDrive - sreenidhi.edu.in\\FixedBTS\\checkpoints\\best_model.pth",
+  "source_images": "C:\\Users\\chinn\\OneDrive - sreenidhi.edu.in\\FixedBTS\\data\\processed\\test\\BraTS-GLI-00022-001\\images.npy",
+  "space": "processed patch space; not an original-space heatmap",
+  "target_class": 3
+}
